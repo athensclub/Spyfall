@@ -1,16 +1,19 @@
-# spyfall
+# Spyfall
+A simple game "Spyfall" made with Flutter.
 
-A new Flutter application.
+## Releases
+The latest release is available on this repository's [releases](https://github.com/athensclub/Spyfall/releases/ "releases page") page.
 
-## Getting Started
+## Authors
+The only author of this project is [athensclub](https://github.com/athensclub "athensclub") (me!)
 
-This project is a starting point for a Flutter application.
+## Screenshots
+Here are a few screenshots of this application:
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot of application home page](https://github.com/athensclub/Spyfall/blob/main/screenshots/home_page.png "Homepage")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot of application when user is viewing their role](https://github.com/athensclub/Spyfall/blob/main/screenshots/viewing_role.png "Viewing role")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot of application during questioning phase](https://github.com/athensclub/Spyfall/blob/main/screenshots/questioning.png "Questioning")
+
+![Screenshot of application when the game is over](https://github.com/athensclub/Spyfall/blob/main/screenshots/game_over.png "Game over")
