@@ -5,7 +5,7 @@ A simple game "Spyfall" made with Flutter.
 The latest release is available on this repository's [releases](https://github.com/athensclub/Spyfall/releases/ "releases page") page.
 
 ## Authors
-The only author of this project is [athensclub](https://github.com/athensclub "athensclub") (me!)
+The only author of this project is [athensclub](https://github.com/athensclub "athensclub") (me!).
 
 ## Screenshots
 Here are a few screenshots of this application:
