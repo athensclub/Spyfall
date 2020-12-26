@@ -1,4 +1,7 @@
 # Spyfall
+
+![Spyfall Icon](https://github.com/athensclub/Spyfall/blob/main/images/spyfall_icon.png)
+
 A simple game "Spyfall" made with Flutter.
 
 ## Releases
